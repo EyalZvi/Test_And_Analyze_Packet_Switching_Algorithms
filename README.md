@@ -33,7 +33,7 @@ In this Mininet project we will simulate and compare different scheduling algori
 
 # Results and Conclusions:
 
-**THE RESULTS OF ALL FOUR TOPOLOGIES ARE SHOWN I GRAPH FORM IN THE PPTX FILE**
+**THE RESULTS OF ALL FOUR TOPOLOGIES ARE SHOWN IN GRAPH FORM IN THE PPTX FILE**
 
 **According to our model and simulation results:**
 
@@ -43,7 +43,8 @@ Given identical service times the optimal algorithm is RR.
 
 As the number of clients increase the Random algorithm shows more efficiency and becomes the 2nd optimal choice.
 
-We conclude that when the topology and weights are known it is most efficient using RR or WFQ according to the ratio between server weights.Otherwise, using the Random algorithm can result in higher efficiency than choosing one of the other algorithms.
+We conclude that when the topology and weights are known it is most efficient using RR or WFQ according to the ratio between server weights.
+Otherwise, using the Random algorithm can result in higher efficiency than choosing one of the other algorithms.
 
 
 
