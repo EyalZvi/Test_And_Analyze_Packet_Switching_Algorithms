@@ -33,7 +33,7 @@ In this Mininet project we will simulate and compare different scheduling algori
 
 # Results and Conclusions:
 
-**THE RESULTS OF ALL FOUR TOPOLOGIES ARE SHOWN I GRAPH FORM IN THE PPTX FILE **
+**THE RESULTS OF ALL FOUR TOPOLOGIES ARE SHOWN I GRAPH FORM IN THE PPTX FILE**
 
 **According to our model and simulation results:**
 
