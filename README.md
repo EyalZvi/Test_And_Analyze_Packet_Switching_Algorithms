@@ -8,5 +8,11 @@ In this Mininet project we will simulate and compare different scheduling algori
 
 # Test Cases:
 
-**Topology 1**: 3 Clients vs. 3 Servers - All servers with equal service times
+**1) Topology 1**: 3 Clients vs. 3 Servers - All servers with equal service times
+
 ![image](https://user-images.githubusercontent.com/92316457/185902828-b7ac0242-f850-4b9a-b4b2-33afce5b8190.png)
+
+
+**2) Topology 1**: 3 Clients vs. 3 Servers - All servers with differnet service times
+
+![image](https://user-images.githubusercontent.com/92316457/185903023-571d4603-424b-49b7-a249-0007f099c9da.png)
